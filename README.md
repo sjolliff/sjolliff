@@ -2,10 +2,8 @@
 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java and Linux
-- 📫 How to reach me: scjolliff@gmail.com
 - 😄 Pronouns: She/Hers
-- ⚡ Fun fact: ...
-
+- 
 <div>
   <a href="https://github.com/sjolliff">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&langs_count=7&theme=dracula"/> 
