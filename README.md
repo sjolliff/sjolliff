@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java and Linux
 - 😄 Pronouns: She/Hers
 
-## 
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,15 +16,6 @@
   <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600)
-
-## 🚀 Top Languages
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5)
 
  #### <!-- &#128295; --> Tech:
   - BackEnd:<br>
@@ -54,4 +47,6 @@
   
 </div>
 
-##
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600)
