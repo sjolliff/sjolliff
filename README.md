@@ -24,10 +24,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=donut&theme=radical&hide_progress=false&langs_count=12)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=pie&theme=radical&hide_progress=false&langs_count=10)
-
  #### <!-- &#128295; --> Tech:
   - BackEnd:<br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
