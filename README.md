@@ -56,13 +56,12 @@
 
 ##
 
+
 # My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600)
 
-![Sara's github stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=dracula)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&cache_seconds=3600)
 
 
 
