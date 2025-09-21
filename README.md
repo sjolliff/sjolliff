@@ -3,11 +3,6 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java and Linux
 - 😄 Pronouns: She/Hers
-<div>
-  <a href="https://github.com/sjolliff">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&langs_count=7&theme=dracula"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ##
 
@@ -21,6 +16,8 @@
 </div>
 
   ##
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -53,4 +50,8 @@
   <a href="https://www.linkedin.com/in/sarajolliff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+![Sara's github stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=dracula)
 
