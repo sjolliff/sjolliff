@@ -49,7 +49,4 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=default)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
