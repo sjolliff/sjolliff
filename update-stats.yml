@@ -1,0 +1,31 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  push:
+    branches: [ main ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update README with latest stats
+        run: |
+          # Get latest languages from GitHub API
+          LANGUAGES=$(curl -s "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100" | \
+          jq -r '.[] | .language' | \
+          sort | uniq -c | sort -nr | \
+          head -5 | awk '{print $2 ": " $1}' | tr '\n' ', ')
+          
+          # Update README
+          sed -i "s/<!-- LANGUAGES_START -->.*<!-- LANGUAGES_END -->/<!-- LANGUAGES_START -->$LANGUAGES<!-- LANGUAGES_END -->/" README.md
+          
+          # Commit changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update language stats" || echo "No changes to commit"
+          git push
