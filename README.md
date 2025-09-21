@@ -6,7 +6,7 @@
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
