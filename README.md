@@ -62,3 +62,22 @@
 
 ![Sara's github stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=dracula)
 
+
+
+
+
+
+# 👋 Hi, I'm [Your Name]
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical)
+
+## 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sjolliff&theme=onedark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
