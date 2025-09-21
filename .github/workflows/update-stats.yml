@@ -2,9 +2,9 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours (more frequent)
-  workflow_dispatch:        # Manual trigger
-  push:                     # Run when you push code
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
     branches: [ main ]
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           # Refresh stats badge
           curl -s "https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&random=${{ github.run_id }}" > /dev/null
           
-          # Refresh languages badge
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&random=${{ github.run_id }}" > /dev/null
+          # Refresh languages badge WITH percentages
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&random=${{ github.run_id }}" > /dev/null
           
-          echo "Stats badges refreshed!"
+          echo "Stats badges refreshed with percentages!"
