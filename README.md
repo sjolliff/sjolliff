@@ -21,9 +21,12 @@
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&cache_seconds=3600)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&hide_progress=false&langs_count=20&size_weight=0.5&count_weight=0.5)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=donut&theme=radical&hide_progress=false&langs_count=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=pie&theme=radical&hide_progress=false&langs_count=10)
 
  #### <!-- &#128295; --> Tech:
   - BackEnd:<br>
