@@ -1,0 +1,35 @@
+name: Debug GitHub Stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Token Authentication
+        run: |
+          echo "Testing token authentication..."
+          response=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/user)
+          echo "Response: $response"
+          
+          if echo "$response" | grep -q "login"; then
+            echo "✅ Token is working!"
+          else
+            echo "❌ Token authentication failed"
+            echo "Please check:"
+            echo "1. Token has 'repo' permissions"
+            echo "2. Secret is named 'GH_TOKEN'"
+            echo "3. Token is not expired"
+            exit 1
+          fi
+
+      - name: Test Stats API
+        run: |
+          echo "Testing stats API with token..."
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            "https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true" \
+            -o debug_output.txt
+          
+          echo "API response:"
+          cat debug_output.txt
