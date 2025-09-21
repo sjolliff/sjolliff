@@ -15,12 +15,13 @@
   <img align="center" alt="Sara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## Git Hub Stats
+# 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600)
 
+## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&cache_seconds=3600)
 
 
 
@@ -55,28 +56,3 @@
 </div>
 
 ##
-
-
-# My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical&cache_seconds=3600)
-
-
-
-
-# 👋 Hi, I'm [Your Name]
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjolliff&show_icons=true&theme=radical)
-
-## 🚀 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjolliff&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sjolliff&theme=onedark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
