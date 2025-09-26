@@ -1,7 +1,6 @@
 ## Hey! I'm Sara Jolliff. Nice to meet you! 👋
 
-
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript 
 
 ## 🚀 Top Languages
 
